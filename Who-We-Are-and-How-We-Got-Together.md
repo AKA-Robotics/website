@@ -12,7 +12,7 @@
     </div>
     <div style="flex: 2; padding: 20px;">
       <h3>Antoni Luong-Pham</h3>
-      Antoni has a fondness for the colors blue, black and green. In his free time, he likes to play and tinker with VEX. In 2022-2023 season, Antoni was many teams and was intrested in VEX Antoni has done 2 years of VEX IQ and has went to worlds and divsion finals last year's season.
+      Antoni has a fondness for the colors blue, black and green. In his free time, he likes to play and tinker with VEX. In 2022-2023 season, Antoni saw many teams and was inspiried to join VEX. Antoni has done 2 years of VEX IQ and also does other robotics like LEGO.
     </div>
   </div>
 
